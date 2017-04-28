@@ -1,0 +1,10 @@
+{
+	"id": "theme_notepad",
+	"version": "1.0.0",
+	"description": "A theme very similar to a primitive text editor from redmond",
+	"categories": [
+		"theme",
+		"design"
+	],
+	"compatible_from": "2017.3"
+}
