@@ -11,13 +11,13 @@ og_html_prefix ();
 </head>
 
 <body>
-    <div id="page">
+	<div id="page">
 
-        <div id="titlebar">
+		<div id="titlebar">
 
-        	<h1><?php title()?> - <?php homepage_title()?></h1>
-      </div>
-        <div id="bar">
+			<h1><?php title()?> - <?php homepage_title()?></h1>
+		</div>
+		<div id="bar">
             <?php menu("top");?>
       </div>
-        <div id="main">
+		<div id="main">
