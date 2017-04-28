@@ -14,7 +14,6 @@ p {text-align: left;}
 body {
 	margin: 0;
 	padding: 0;
-	font-family:  Arial, Helvetica, sans-serif;
 	font-size: 13px;
 }
 *
@@ -118,7 +117,6 @@ background:#316AC5;
   padding-top:0px;
   padding-left:7px;
   padding-right:28px;
-  font-family: "Lucida Console", Lucida Console, "Tahoma", "Trebuchet MS", Arial;
   background-image:url(notepad_back.png);
   background-repeat:repeat-y;
   color:#000000;
