@@ -1,3 +1,4 @@
+<div class="comments"><?php Template::comments();?></div>
 <div class="advertisement"><?php random_banner();?></div>
 </div>
 <!-- please leave my link somewhere in your page, that is all I ask -->
